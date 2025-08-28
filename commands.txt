@@ -1,0 +1,5 @@
+pip install opencv-python
+python code.py
+pip install opencv-contrib-python
+
+source env/Scripts/activate
