@@ -1,11 +1,6 @@
-Got it 👍 — here’s the full **README.md** content in proper Markdown format with your GitHub commands included. You can copy–paste this directly into your `README.md` file.
-
----
-
-````markdown
 # QRCode-Scanner-CSV
 
-A simple Python project to **scan QR codes from images** using OpenCV and **store decoded results into a CSV file**.
+A simple Python project to scan QR codes from images using OpenCV and **store decoded results into a CSV file.
 
 ## 🚀 Features
 - Scan QR codes from images
@@ -18,7 +13,7 @@ A simple Python project to **scan QR codes from images** using OpenCV and **stor
    ```bash
    git clone https://github.com/King-Greatman-Spirit/QRCode-Scanner-CSV.git
    cd QRCode-Scanner-CSV
-````
+``
 
 2. Create and activate a virtual environment:
 
@@ -96,7 +91,3 @@ git push -u origin main
 
 ```
 
----
-
-Would you also like me to add a **section showing the updated `code.py` script** inside the README (so people see the CSV feature immediately when they visit your repo)?
-```
